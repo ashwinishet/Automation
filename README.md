@@ -27,7 +27,7 @@ Output :
 2. For failed test cases, screenshots are captured inside the Screenshots Folder with test name as name of the screenshot
 
 Things which can be added for further enhancements of the framework :
-Project dependencies may be added to Maven pom.xml
-More negative scenarios can be added for each of the inputs in different pages
-Session page is not covered, as I did not see any major functionality, other than deleting the session information
-Adding many records for Branch/ Staff to test Pagination
+1. Project dependencies may be added to Maven pom.xml
+2. More negative scenarios can be added for each of the inputs in different pages
+3. Session page is not covered, as I did not see any major functionality, other than deleting the session information
+4. Adding many records for Branch/ Staff to test Pagination
