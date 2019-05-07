@@ -31,3 +31,4 @@ Things which can be added for further enhancements of the framework :
 2. More negative scenarios can be added for each of the inputs in different pages
 3. Session page is not covered, as I did not see any major functionality, other than deleting the session information
 4. Adding many records for Branch/ Staff to test Pagination
+5. Selecting different browsers by passing paramter in testng.xml
